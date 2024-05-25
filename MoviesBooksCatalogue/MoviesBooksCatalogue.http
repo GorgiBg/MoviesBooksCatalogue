@@ -1,0 +1,6 @@
+@MoviesBooksCatalogue_HostAddress = http://localhost:5265
+
+GET {{MoviesBooksCatalogue_HostAddress}}/moviesandbooks/
+Accept: application/json
+
+###
