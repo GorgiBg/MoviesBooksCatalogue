@@ -34,7 +34,8 @@ namespace MoviesBooksCatalogue
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "MoviesAndBooks v1"));
+                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", 
+                    "MoviesBooksCatalogue v1"));
             }
             else
             {

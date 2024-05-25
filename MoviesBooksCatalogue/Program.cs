@@ -1,6 +1,3 @@
-using MoviesBooksCatalogue;
-
-
 namespace MoviesBooksCatalogue
 {
 
