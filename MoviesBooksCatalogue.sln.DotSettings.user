@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3c1def5f_002D646b_002D4c3c_002D897e_002De613fce45ab9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="BookServiceTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::6CF4F944-44E8-4010-BC74-4EF1302B7C66::net8.0::UnitTests.BookServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6CF4F944-44E8-4010-BC74-4EF1302B7C66::net8.0::UnitTests.MovieServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6CF4F944-44E8-4010-BC74-4EF1302B7C66::net8.0::UnitTests.BooksControllerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6CF4F944-44E8-4010-BC74-4EF1302B7C66::net8.0::UnitTests.MoviesControllerTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
